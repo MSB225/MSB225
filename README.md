@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MSB225/MSB225/output/snake.svg" alt="Snake animation" />
-
-###
